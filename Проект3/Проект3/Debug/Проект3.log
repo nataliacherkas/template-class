@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\user\documents\visual studio 2015\projects\проект3\проект3\source1.cpp(59): warning C4305: аргумент: усечение из "double" к "float"
+  Проект3.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Проект3\Debug\Проект3.exe
+  Проект3.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\Проект3\Debug\Проект3.pdb (Partial PDB)
